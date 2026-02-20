@@ -39,8 +39,8 @@ I'm a self-taught developer passionate about building real-world applications wh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgenurpala&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bilgenurpala&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
