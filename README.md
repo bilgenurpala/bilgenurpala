@@ -43,7 +43,6 @@ I'm a self-taught developer passionate about building real-world applications wh
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bilgenurpala&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgenurpala&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
