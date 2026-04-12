@@ -118,10 +118,8 @@ Personal finance manager — income, expenses, budgets. Dark terminal UI.
 | | Topic | Status |
 |:---:|---|:---:|
 | 🦾 | Django & Django REST Framework | `In Progress` |
-| 📱 | React Native | `In Progress` |
 | 🤖 | AI Integration | `Building` |
 | 🗄️ | Database Architecture | `Studying` |
-
 ---
 
 <div align="center">
