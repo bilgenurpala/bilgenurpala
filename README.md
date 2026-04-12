@@ -14,10 +14,17 @@
 
 Hi! I'm **Bilgenur**, a self-taught full-stack developer from Turkey 🇹🇷
 
-- 🔭 Currently building **CV Analyzer API** with Flask + Claude API
-- 🌱 Learning **Django**, **React Native**, **Database Architecture**
-- 💬 Ask me about Python, Flask, building stuff from scratch
-- ⚡ Built a finance tracker before finishing Day 14 of 100 Days of Code 😄
+## 🚀 Featured Projects
+
+### 🛒 NovaStore – AI E-commerce Platform
+- FastAPI + MSSQL + React + Flutter
+- AI-powered product recommendations & chatbot
+- Scalable backend architecture
+
+### 💰 FinTrack – AI Financial Advisor
+- Flask + Claude API
+- AI-based spending analysis & insights
+- Real-time investment tracking
 
 ---
 
