@@ -12,7 +12,11 @@
 
 ## About Me
 
-Hi! I'm **Bilgenur**, a self-taught full-stack developer from Turkey 🇹🇷
+Backend-focused developer working with Python and Node.js, building scalable APIs and integrating AI into real-world applications.
+
+I have developed production-style systems including an AI-powered e-commerce platform and a financial analysis application with LLM-based insights.
+
+I focus on clean architecture, security, and building backend systems that are reliable and ready for real users.
 
 ## 🚀 Featured Projects
 
@@ -33,17 +37,20 @@ Hi! I'm **Bilgenur**, a self-taught full-stack developer from Turkey 🇹🇷
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 🚀 What I Build
+- Scalable backend APIs  
+- AI-powered application features  
+- Real-world systems with clean architecture
 
 ---
 
