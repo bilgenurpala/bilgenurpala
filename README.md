@@ -37,7 +37,7 @@ class BilgenurPala:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**nova-store**](https://github.com/bilgenurpala/nova-store) | Production-ready AI-powered e-commerce platform | TypeScript · React · Flutter |
+| [**nova-store**](https://github.com/bilgenurpala/nova-store) | Production-ready AI-powered e-commerce platform | TypeScript · React · Flutter · FastAPI|
 | [**ai-learning-lab**](https://github.com/bilgenurpala/ai-learning-lab) | Structured journey through Python, Math, ML & AI Engineering | Python · Jupyter |
 | [**finance-tracker**](https://github.com/bilgenurpala/finance-tracker) | Personal finance app with budget goals & investment portfolio | Python |
 | [**glowup-backend**](https://github.com/bilgenurpala/glowup-backend) | Production-ready REST API with JWT auth, token rotation, rate limiting & Swagger docs | Node.js · Express · PostgreSQL · Docker |
