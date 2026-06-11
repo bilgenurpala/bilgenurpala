@@ -21,17 +21,6 @@
 
 I bridge the gap between machine learning research and robust production systems. I focus on developing, optimizing, and securing **Retrieval-Augmented Generation (RAG) pipelines, API contracts, structured output parsers, and autonomous agent loops**.
 
-```python
-class BilgenurPala:
-    role        = "AI Engineer & Cyber-AI Specialist"
-    internship  = "AI Engineer Intern @ FlyRank"
-    programs    = ["Microsoft Turkey AI Innovators", "Pupilica AI Bootcamp"]
-    focus       = ["LLMs", "RAG Pipelines", "Agentic Loops", "MLOps"]
-    stack       = ["Python", "TypeScript", "React", "Flutter", "FastAPI", "Docker"]
-    goal        = "Build intelligent, secure, and production-grade systems"
-    fun_fact    = "I track my own finances with code I wrote myself 🐍"
-```
-
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  pala@ai-engineer:~$ info --user bilgenurpala                                 │
