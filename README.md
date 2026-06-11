@@ -88,13 +88,6 @@ I bridge the gap between machine learning research and robust production systems
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bilgenurpala&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
-</p>
-
 ---
 
 ## 📊 Contribution Graph & Metrics
