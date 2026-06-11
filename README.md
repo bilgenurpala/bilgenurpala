@@ -21,6 +21,17 @@
 
 I bridge the gap between machine learning research and robust production systems. I focus on developing, optimizing, and securing **Retrieval-Augmented Generation (RAG) pipelines, API contracts, structured output parsers, and autonomous agent loops**.
 
+```python
+class BilgenurPala:
+    role        = "AI Engineer & Cyber-AI Specialist"
+    internship  = "AI Engineer Intern @ FlyRank"
+    programs    = ["Microsoft Turkey AI Innovators", "Pupilica AI Bootcamp"]
+    focus       = ["LLMs", "RAG Pipelines", "Agentic Loops", "MLOps"]
+    stack       = ["Python", "TypeScript", "React", "Flutter", "FastAPI", "Docker"]
+    goal        = "Build intelligent, secure, and production-grade systems"
+    fun_fact    = "I track my own finances with code I wrote myself 🐍"
+```
+
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  pala@ai-engineer:~$ info --user bilgenurpala                                 │
@@ -54,7 +65,6 @@ I bridge the gap between machine learning research and robust production systems
 *   **Stack:** 
     [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
     [![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=flat-square)](https://www.trychroma.com)
-    [![Foundry Local](https://img.shields.io/badge/Foundry_Local-orange?style=flat-square)](https://github.com)
 
 ### 🎓 [Pupilica AI Bootcamp](https://github.com/bilgenurpala/pupilica-ai-bootcamp)
 *   **Program:** Live AI Engineering Bootcamp Track
@@ -62,15 +72,21 @@ I bridge the gap between machine learning research and robust production systems
 *   **Stack:** 
     [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
     [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-    [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
-### 🧪 [AI Learning Lab](https://github.com/bilgenurpala/ai-learning-lab)
-*   **Project:** Central Hub for AI/ML foundations, DataCamp progression notebooks, and Cyber-AI logs.
-*   **Focus:** Advanced pandas merging, OpenAI APIs, vector embeddings math, salting/hashing encryption algorithms, and network intrusion models.
+### 🛍️ [nova-store](https://github.com/bilgenurpala/nova-store)
+*   **Project:** Production-ready AI-powered e-commerce platform.
+*   **Focus:** Intelligent search, recommendation engine integration, user flows, and cross-platform clients.
 *   **Stack:** 
-    [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
-    [![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
-    [![Cryptography](https://img.shields.io/badge/Cryptography-red?style=flat-square)](https://github.com)
+    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+    [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+    [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+
+### 🌐 [glowup-backend](https://github.com/bilgenurpala/glowup-backend)
+*   **Project:** Secure, robust REST API service.
+*   **Focus:** JWT authentication with token rotation, rate limiting, and interactive API documentation.
+*   **Stack:** 
+    [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
+    [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ---
 
@@ -87,7 +103,7 @@ I bridge the gap between machine learning research and robust production systems
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=bilgenurpala&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bilgenurpala&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
 </p>
 
 ---
@@ -103,3 +119,23 @@ I bridge the gap between machine learning research and robust production systems
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgenurpala&layout=compact&theme=tokyonight&border_radius=10" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgenurpala&theme=tokyonight&hide_border=true" width="65%" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🔢 **Mathematics for Machine Learning** (Linear Algebra, Calculus, Probability)
+- 🧠 **Supervised & Unsupervised Learning** fundamentals
+- 🤖 **LLM application development** & prompt engineering
+- 🏗️ **Building MLOps pipelines** end-to-end
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,18&height=100&section=footer"/>
+
+</div>
