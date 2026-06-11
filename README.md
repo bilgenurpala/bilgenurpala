@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bilgenur%20Pala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20in%20Progress&descAlignY=55&descSize=18" />
+<!-- Waving tech banner with deep dark purple/violet/indigo gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,18&height=180&section=header&text=Bilgenur%20Pala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Cyber-AI%20Specialist&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+LLMs;From+Full+Stack+%E2%86%92+AI+Engineering;Learning+in+public+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
+<!-- Typing SVG header showing roles and active tracks -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;RAG+Pipelines+%7C+Agentic+Loops+%7C+MLOps;AI+Engineer+Intern+%40+FlyRank;Learning+in+public+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/bilgenur-pala-892a1a225">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -17,88 +19,87 @@
 
 ## ⚡ About Me
 
-I'm a software developer actively transitioning into **AI Engineering** — building hands-on projects at the intersection of machine learning, LLMs, and production software.
+I bridge the gap between machine learning research and robust production systems. I focus on developing, optimizing, and securing **Retrieval-Augmented Generation (RAG) pipelines, API contracts, structured output parsers, and autonomous agent loops**.
 
-My foundation in full-stack web development gives me an edge: I don't just experiment with models, I ship complete, working products built around them.
-
-```python
-class BilgenurPala:
-    role        = "Aspiring AI Engineer"
-    focus       = ["LLMs", "Machine Learning", "AI-Powered Products"]
-    stack       = ["Python", "TypeScript", "React", "Flutter"]
-    currently   = "Structured deep-dive into ML & AI Engineering"
-    goal        = "Build intelligent systems that solve real problems"
-    fun_fact    = "I track my own finances with code I wrote myself 🐍"
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  pala@ai-engineer:~$ info --user bilgenurpala                                 │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  ⚡ Role:       AI Engineer & Cyber-AI Specialist                             │
+│  💼 Intern:     AI Engineer Intern @ FlyRank                                 │
+│  🎓 Programs:   Microsoft Turkey AI Innovators · Pupilica AI Bootcamp        │
+│  🛠️ Core:       Python · PyTorch · Scikit-Learn · FastAPI · Docker · RAG     │
+│  🌱 Current:    Designing API contracts, RAG prototypes & agent workflows    │
+│  🎯 Mission:    Ship secure, robust, and production-grade intelligent systems│
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 Featured Projects & Portfolio
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**nova-store**](https://github.com/bilgenurpala/nova-store) | Production-ready AI-powered e-commerce platform | TypeScript · React · Flutter · FastAPI|
-| [**ai-learning-lab**](https://github.com/bilgenurpala/ai-learning-lab) | Structured journey through Python, Math, ML & AI Engineering | Python · Jupyter |
-| [**finance-tracker**](https://github.com/bilgenurpala/finance-tracker) | Personal finance app with budget goals & investment portfolio | Python |
-| [**glowup-backend**](https://github.com/bilgenurpala/glowup-backend) | Production-ready REST API with JWT auth, token rotation, rate limiting & Swagger docs | Node.js · Express · PostgreSQL · Docker |
+### 🤖 [FlyRank AI Engineer Internship](https://github.com/bilgenurpala/flyrank-project)
+*   **Role:** AI Engineer Intern (Systems & Data Pipelines)
+*   **Focus:** Designing API contracts, RAG prototypes, structured output extraction pipelines, tool-calling agent loops, and evaluation harnesses.
+*   **Deliverables:** Production-ready backend AI service owning correctness, semantic search vector databases, and system failure handling.
+*   **Stack:** 
+    [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)](https://fastapi.tiangolo.com)
+    [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
+    [![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink)](https://www.langchain.com)
 
----
+### 🛡️ [Microsoft Turkey AI Innovators Program](https://github.com/bilgenurpala/microsoft-ai-project)
+*   **Project:** *Building Your First Local RAG Application with Foundry Local*
+*   **Focus:** Constructing and optimizing local retrieval-backed pipelines, context injection algorithms, and running embedding/generation loops entirely on local hardware.
+*   **Deliverables:** Local vector database storage indexing, chunking schemas, and LLM orchestration.
+*   **Stack:** 
+    [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+    [![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=flat-square)](https://www.trychroma.com)
+    [![Foundry Local](https://img.shields.io/badge/Foundry_Local-orange?style=flat-square)](https://github.com)
 
-## 🛠️ Tech Stack
+### 🎓 [Pupilica AI Bootcamp](https://github.com/bilgenurpala/pupilica-ai-bootcamp)
+*   **Program:** Live AI Engineering Bootcamp Track
+*   **Focus:** End-to-end Machine Learning pipelines. Topics cover data scaling, label/one-hot encoding, decision trees, random forests, cross-validation, and deep neural nets.
+*   **Stack:** 
+    [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+    [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+    [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
-<div align="center">
-
-**AI & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Web & Mobile**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+### 🧪 [AI Learning Lab](https://github.com/bilgenurpala/ai-learning-lab)
+*   **Project:** Central Hub for AI/ML foundations, DataCamp progression notebooks, and Cyber-AI logs.
+*   **Focus:** Advanced pandas merging, OpenAI APIs, vector embeddings math, salting/hashing encryption algorithms, and network intrusion models.
+*   **Stack:** 
+    [![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
+    [![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+    [![Cryptography](https://img.shields.io/badge/Cryptography-red?style=flat-square)](https://github.com)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skill Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgenurpala&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgenurpala&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,pytorch,sklearn,fastapi,react,flutter,docker,git,github,bash,mysql,postgres,html,css&perline=8" />
+  </a>
+</p>
 
 ---
 
-## 📚 Currently Learning
+## 🏆 GitHub Trophies
 
-- 🔢 Mathematics for Machine Learning (Linear Algebra, Calculus, Probability)
-- 🧠 Supervised & Unsupervised Learning fundamentals
-- 🤖 LLM application development & prompt engineering
-- 🏗️ Building ML pipelines end-to-end
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=bilgenurpala&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 Contribution Graph & Metrics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilgenurpala&theme=tokyo-night" alt="Activity Graph" width="100%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&theme=tokyonight&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgenurpala&layout=compact&theme=tokyonight&border_radius=10" height="150" />
+</p>
+
