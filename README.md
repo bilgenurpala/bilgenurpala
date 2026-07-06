@@ -27,7 +27,7 @@ I bridge the gap between machine learning research and robust production systems
 ├──────────────────────────────────────────────────────────────────────────────┤
 │  ⚡ Role:       AI Engineer & Cyber-AI Specialist                             │
 │  💼 Intern:     AI Engineer Intern @ FlyRank                                 │
-│  🎓 Programs:   Microsoft Turkey AI Innovators · Pupilica AI Bootcamp        │
+│  🎓 Programs:   Microsoft Turkey AI Innovators       
 │  🛠️ Core:       Python · PyTorch · Scikit-Learn · FastAPI · Docker · RAG     │
 │  🌱 Current:    Designing API contracts, RAG prototypes & agent workflows    │
 │  🎯 Mission:    Ship secure, robust, and production-grade intelligent systems│
