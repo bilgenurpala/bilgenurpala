@@ -95,10 +95,6 @@ I bridge the gap between machine learning research and robust production systems
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilgenurpala&theme=tokyo-night" alt="Activity Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&theme=tokyonight&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgenurpala&layout=compact&theme=tokyonight&border_radius=10" height="150" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgenurpala&theme=tokyonight&hide_border=true" width="65%" />
