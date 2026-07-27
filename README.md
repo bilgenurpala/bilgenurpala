@@ -1,113 +1,194 @@
 <div align="center">
 
-<!-- Waving tech banner with deep dark purple/violet/indigo gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,18&height=180&section=header&text=Bilgenur%20Pala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Cyber-AI%20Specialist&descAlignY=55&descSize=18" />
+![Bilgenur Pala — AI and Backend Engineer](assets/cyber-banner.svg)
 
-<!-- Typing SVG header showing roles and active tracks -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;RAG+Pipelines+%7C+Agentic+Loops+%7C+MLOps;AI+Engineer+Intern+%40+FlyRank;Learning+in+public+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=05030D)](https://linkedin.com/in/bilgenur-pala-892a1a225)
+[![GitHub](https://img.shields.io/badge/EXPLORE-GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilgenurpala)
+![Profile Views](https://komarev.com/ghpvc/?username=bilgenurpala&label=PROFILE+VIEWS&color=ec4899&style=for-the-badge)
 
-<p align="center">
-  <a href="https://linkedin.com/in/bilgenur-pala-892a1a225">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bilgenurpala&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-</p>
+`BUILDING INTELLIGENT SYSTEMS // ONE RELIABLE PIPELINE AT A TIME`
 
 </div>
 
----
-
-## ⚡ About Me
-
-I bridge the gap between machine learning research and robust production systems. I focus on developing, optimizing, and securing **Retrieval-Augmented Generation (RAG) pipelines, API contracts, structured output parsers, and autonomous agent loops**.
+## `01 // IDENTITY`
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  pala@ai-engineer:~$ info --user bilgenurpala                                 │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  ⚡ Role:       AI Engineer & Cyber-AI Specialist                             │
-│  💼 Intern:     AI Engineer Intern @ FlyRank                                 │
-│  🎓 Programs:   Microsoft Turkey AI Innovators       
-│  🛠️ Core:       Python · PyTorch · Scikit-Learn · FastAPI · Docker · RAG     │
-│  🌱 Current:    Designing API contracts, RAG prototypes & agent workflows    │
-│  🎯 Mission:    Ship secure, robust, and production-grade intelligent systems│
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─[ bilgenurpala@ai-engineer ]
+│
+├─ ROLE        AI Engineer & Backend Engineer
+├─ FOCUS       RAG systems · Local AI · APIs · Agent workflows
+├─ CURRENT     Backend Engineering Intern @ FlyRank
+├─ PRINCIPLES  Reliability · Privacy · Measurable quality
+│
+└─► Turning AI prototypes into dependable software.
 ```
 
----
+I build retrieval-backed applications, production-oriented backend services, and AI workflows designed to be inspectable, testable, and safe to operate.
 
-## 🔭 Featured Projects & Portfolio
+## `02 // PROJECT DATABASE`
 
-### 🤖 [FlyRank AI Engineer Internship](https://github.com/bilgenurpala/flyrank-project)
-*   **Role:** AI Engineer Intern (Systems & Data Pipelines)
-*   **Focus:** Designing API contracts, RAG prototypes, structured output extraction pipelines, tool-calling agent loops, and evaluation harnesses.
-*   **Deliverables:** Production-ready backend AI service owning correctness, semantic search vector databases, and system failure handling.
-*   **Stack:** 
-    [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)](https://fastapi.tiangolo.com)
-    [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
-    [![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=chainlink)](https://www.langchain.com)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ [Microsoft Turkey AI Innovators Program](https://github.com/bilgenurpala/microsoft-ai-project)
-*   **Project:** *Building Your First Local RAG Application with Foundry Local*
-*   **Focus:** Constructing and optimizing local retrieval-backed pipelines, context injection algorithms, and running embedding/generation loops entirely on local hardware.
-*   **Deliverables:** Local vector database storage indexing, chunking schemas, and LLM orchestration.
-*   **Stack:** 
-    [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-    [![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=flat-square)](https://www.trychroma.com)
+### `PX-01` 🐾 [PET ADOPT](https://github.com/bilgenurpala/pet-adopt)
 
-### 🎓 [Pupilica AI Bootcamp](https://github.com/bilgenurpala/pupilica-ai-bootcamp)
-*   **Program:** Live AI Engineering Bootcamp Track
-*   **Focus:** End-to-end Machine Learning pipelines. Topics cover data scaling, label/one-hot encoding, decision trees, random forests, cross-validation, and deep neural nets.
-*   **Stack:** 
-    [![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-    [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-22D3EE?style=flat-square)
+![VBT](https://img.shields.io/badge/VBT_SOFTWARE-GRADUATION_PROJECT-A855F7?style=flat-square)
 
-### 🛍️ [nova-store](https://github.com/bilgenurpala/nova-store)
-*   **Project:** Production-ready AI-powered e-commerce platform.
-*   **Focus:** Intelligent search, recommendation engine integration, user flows, and cross-platform clients.
-*   **Stack:** 
-    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-    [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-    [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+Pet adoption platform designed to connect animals with new homes through an accessible product experience.
 
-### 🌐 [glowup-backend](https://github.com/bilgenurpala/glowup-backend)
-*   **Project:** Secure, robust REST API service.
-*   **Focus:** JWT authentication with token rotation, rate limiting, and interactive API documentation.
-*   **Stack:** 
-    [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-    [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+`Full Stack` · `Product Development`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Technical Skill Stack
+### `PX-02` 🤖 [LOCAL RAG ASSISTANT](https://github.com/bilgenurpala/local-rag-assistant)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,pytorch,sklearn,fastapi,react,flutter,docker,git,github,bash,mysql,postgres,html,css&perline=8" />
-  </a>
-</p>
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-22D3EE?style=flat-square)
+![Microsoft](https://img.shields.io/badge/MICROSOFT-AI_INNOVATORS-A855F7?style=flat-square&logo=microsoft)
 
+Local-first document intelligence with semantic retrieval, grounded answers, source context, and evaluation.
 
+`Python` · `FastAPI` · `RAG` · `Foundry Local`
 
-## 📊 Contribution Graph & Metrics
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bilgenurpala&theme=tokyo-night" alt="Activity Graph" width="100%" />
-</p>
+### `PX-03` ⚙️ [FLYRANK INTERNSHIP](https://github.com/bilgenurpala/flyrank-internship)
 
+![Ongoing](https://img.shields.io/badge/STATUS-ONGOING-F472B6?style=flat-square)
+![FlyRank](https://img.shields.io/badge/FLYRANK-BACKEND_ENGINEERING-A855F7?style=flat-square)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgenurpala&theme=tokyonight&hide_border=true" width="65%" />
-</p>
+Ongoing backend and AI projects covering API contracts, structured pipelines, RAG prototypes, agent loops, and evaluation.
 
----
+`Backend` · `Python` · `APIs` · `AI Systems`
 
-## 📚 Currently Learning
+</td>
+<td width="50%" valign="top">
 
-- 🔢 **Mathematics for Machine Learning** (Linear Algebra, Calculus, Probability)
-- 🧠 **Supervised & Unsupervised Learning** fundamentals
-- 🤖 **LLM application development** & prompt engineering
-- 🏗️ **Building MLOps pipelines** end-to-end
+### `PX-04` 🛍️ [NOVASTORE](https://github.com/bilgenurpala/novastore)
+
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-22D3EE?style=flat-square)
+![Software Persona](https://img.shields.io/badge/SOFTWARE_PERSONA-GRADUATION_PROJECT-A855F7?style=flat-square)
+
+End-to-end e-commerce application built around core shopping flows and maintainable application architecture.
+
+`E-Commerce` · `Full Stack` · `Product`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### `PX-05` ✨ [GLOWUP BACKEND](https://github.com/bilgenurpala/glowup-backend)
+
+![Personal](https://img.shields.io/badge/TYPE-PERSONAL-A855F7?style=flat-square)
+![Backend](https://img.shields.io/badge/SYSTEM-BACKEND_SERVICE-F472B6?style=flat-square)
+
+Personal backend service exploring practical API development, authentication, databases, and application security.
+
+`REST API` · `Authentication` · `Database` · `Security`
+
+</td>
+</tr>
+</table>
+
+## `03 // TECH ARSENAL`
+
+<div align="center">
+
+### `[ AI / ML CORE ]`
+
+![Python](https://img.shields.io/badge/Python-05030D?style=for-the-badge&logo=python&logoColor=22D3EE)
+![FastAPI](https://img.shields.io/badge/FastAPI-05030D?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
+![PyTorch](https://img.shields.io/badge/PyTorch-05030D?style=for-the-badge&logo=pytorch&logoColor=F472B6)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-05030D?style=for-the-badge&logo=scikitlearn&logoColor=F472B6)
+
+### `[ APPLICATION / DATA LAYER ]`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-05030D?style=for-the-badge&logo=typescript&logoColor=A855F7)
+![React](https://img.shields.io/badge/React-05030D?style=for-the-badge&logo=react&logoColor=22D3EE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05030D?style=for-the-badge&logo=postgresql&logoColor=A855F7)
+
+### `[ ENGINEERING TOOLCHAIN ]`
+
+![Docker](https://img.shields.io/badge/Docker-05030D?style=for-the-badge&logo=docker&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/Git-05030D?style=for-the-badge&logo=git&logoColor=F472B6)
+
+</div>
+
+## `04 // ACTIVE PROTOCOLS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `◉ CURRENT FOCUS`
+
+- Building backend systems at **FlyRank**
+- Designing reliable **RAG pipelines**
+- Improving evaluation and failure handling
+- Turning prototypes into tested services
+
+</td>
+<td width="50%" valign="top">
+
+### `◈ LEARNING QUEUE`
+
+- Mathematics for Machine Learning
+- Production MLOps workflows
+- Agent architecture and tool use
+- Secure, observable AI applications
+
+</td>
+</tr>
+</table>
+
+## `05 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<a href="https://github.com/bilgenurpala">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&hide_border=true&bg_color=05030D&title_color=A855F7&icon_color=22D3EE&text_color=C4B5FD&ring_color=F472B6" alt="Bilgenur Pala's GitHub statistics" />
+</a>
+<a href="https://github.com/bilgenurpala">
+  <img width="49%" src="https://streak-stats.demolab.com?user=bilgenurpala&hide_border=true&background=05030D&ring=A855F7&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C4B5FD&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Bilgenur Pala's GitHub streak" />
+</a>
+
+### `CONTRIBUTION SNAKE // DAILY SYSTEM SCAN`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="Contribution grid snake animation" src="assets/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+`AUTO-REFRESH: 24H` · `SOURCE: GITHUB CONTRIBUTIONS` · `MODE: NEON VIOLET`
+
+</div>
+
+## `06 // SYSTEM PHILOSOPHY`
+
+```text
+[ RETRIEVE ] ──► [ GROUND ] ──► [ EVALUATE ] ──► [ IMPROVE ]
+
+  clear contracts     predictable systems       safer deployments
+  local inference     stronger privacy          practical AI
+```
+
+## `07 // OPEN CHANNEL`
+
+Interested in RAG architecture, local AI, backend engineering, or production evaluation? Let's connect on [LinkedIn](https://linkedin.com/in/bilgenur-pala-892a1a225) or explore my [repositories](https://github.com/bilgenurpala?tab=repositories).
+
+<div align="center">
+
+`< BUILD CAREFULLY // MEASURE HONESTLY // KEEP LEARNING />`
+
+</div>
+
 
 ---
 
