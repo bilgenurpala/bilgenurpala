@@ -151,13 +151,6 @@ Personal backend service exploring practical API development, authentication, da
 
 <div align="center">
 
-<a href="https://github.com/bilgenurpala">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilgenurpala&show_icons=true&hide_border=true&bg_color=05030D&title_color=A855F7&icon_color=22D3EE&text_color=C4B5FD&ring_color=F472B6" alt="Bilgenur Pala's GitHub statistics" />
-</a>
-<a href="https://github.com/bilgenurpala">
-  <img width="49%" src="https://streak-stats.demolab.com?user=bilgenurpala&hide_border=true&background=05030D&ring=A855F7&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C4B5FD&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Bilgenur Pala's GitHub streak" />
-</a>
-
 ### `CONTRIBUTION SNAKE // DAILY SYSTEM SCAN`
 
 <picture>
@@ -167,6 +160,8 @@ Personal backend service exploring practical API development, authentication, da
 </picture>
 
 `AUTO-REFRESH: 24H` · `SOURCE: GITHUB CONTRIBUTIONS` · `MODE: NEON VIOLET`
+
+[View native contribution history](https://github.com/bilgenurpala?tab=overview&from=2026-01-01&to=2026-12-31) · [Explore repositories](https://github.com/bilgenurpala?tab=repositories)
 
 </div>
 
@@ -186,14 +181,5 @@ Interested in RAG architecture, local AI, backend engineering, or production eva
 <div align="center">
 
 `< BUILD CAREFULLY // MEASURE HONESTLY // KEEP LEARNING />`
-
-</div>
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,18&height=100&section=footer"/>
 
 </div>
