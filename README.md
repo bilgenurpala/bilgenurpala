@@ -1,6 +1,6 @@
 <div align="center">
 
-![Bilgenur Pala — AI and Backend Engineer](assets/cyber-banner.svg)
+![Bilgenur Pala — Business Analyst, AI and Backend](assets/cyber-banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=05030D)](https://linkedin.com/in/bilgenur-pala-892a1a225)
 [![GitHub](https://img.shields.io/badge/EXPLORE-GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilgenurpala)
@@ -13,17 +13,19 @@
 ## `01 // IDENTITY`
 
 ```text
-┌─[ bilgenurpala@ai-engineer ]
+┌─[ bilgenurpala@business-analyst ]
 │
-├─ ROLE        AI Engineer & Backend Engineer
-├─ FOCUS       RAG systems · Local AI · APIs · Agent workflows
-├─ CURRENT     Backend Engineering Intern @ FlyRank
+├─ ROLE        Business Analyst · AI & Backend Development
+├─ FOCUS       Requirements analysis · API testing · Software quality
+├─ CURRENT     Business Analyst @ VBT Software · October 2026–Present
 ├─ PRINCIPLES  Reliability · Privacy · Measurable quality
 │
-└─► Turning AI prototypes into dependable software.
+└─► Connecting business needs with dependable software.
 ```
 
-I build retrieval-backed applications, production-oriented backend services, and AI workflows designed to be inspectable, testable, and safe to operate.
+I am a **Business Analyst at VBT Software**, starting in **October 2026**. I analyze business and technical requirements, conduct API testing, design test cases, and contribute to software quality assurance and process improvements in collaboration with project teams.
+
+My technical foundation spans Python, backend services, SQL, and AI systems. I also build retrieval-backed applications and agent workflows with explicit verification and documented limits.
 
 ## `02 // PROJECT DATABASE`
 
@@ -81,7 +83,7 @@ End-to-end e-commerce application built around core shopping flows and maintaina
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### `PX-05` ✨ [GLOWUP BACKEND](https://github.com/bilgenurpala/glowup-backend)
 
@@ -93,12 +95,28 @@ Personal backend service exploring practical API development, authentication, da
 `REST API` · `Authentication` · `Database` · `Security`
 
 </td>
+<td width="50%" valign="top">
+
+### `PX-06` 💰 [FINTRACK](https://github.com/bilgenurpala/finance-tracker)
+
+![Rebuild](https://img.shields.io/badge/STATUS-REBUILD_IN_PROGRESS-F472B6?style=flat-square)
+![Personal](https://img.shields.io/badge/TYPE-PERSONAL-A855F7?style=flat-square)
+
+Personal finance application for income, expenses, budgets, investments, and Claude-assisted analysis. The Flask/SQLite baseline is preserved with audit evidence; the FastAPI/PostgreSQL rebuild and automated tests are planned work. Not production ready.
+
+`Python` · `Flask` · `SQLite` · `Chart.js` · `Claude API`
+
+</td>
 </tr>
 </table>
 
 ## `03 // TECH ARSENAL`
 
 <div align="center">
+
+### `[ BUSINESS ANALYSIS / QUALITY ]`
+
+`Business Analysis` · `Requirements Analysis` · `Software Testing` · `API Testing` · `Test Cases`
 
 ### `[ AI / ML CORE ]`
 
@@ -128,10 +146,11 @@ Personal backend service exploring practical API development, authentication, da
 
 ### `◉ CURRENT FOCUS`
 
-- Building backend systems at **FlyRank**
-- Designing reliable **RAG pipelines**
-- Improving evaluation and failure handling
-- Turning prototypes into tested services
+- Business analysis and software quality at **VBT Software**
+- Analyzing requirements and designing test cases
+- API testing and process improvements
+- Developing **FinTrack** through a documented rebuild
+- Continuing backend and AI engineering projects
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +195,7 @@ Personal backend service exploring practical API development, authentication, da
 
 ## `07 // OPEN CHANNEL`
 
-Interested in RAG architecture, local AI, backend engineering, or production evaluation? Let's connect on [LinkedIn](https://linkedin.com/in/bilgenur-pala-892a1a225) or explore my [repositories](https://github.com/bilgenurpala?tab=repositories).
+Interested in business analysis, software quality, API testing, backend engineering, or grounded AI systems? Let's connect on [LinkedIn](https://linkedin.com/in/bilgenur-pala-892a1a225) or explore my [repositories](https://github.com/bilgenurpala?tab=repositories).
 
 <div align="center">
 
