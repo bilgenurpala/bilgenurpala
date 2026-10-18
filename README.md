@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=05030D)](https://linkedin.com/in/bilgenur-pala-892a1a225)
 [![GitHub](https://img.shields.io/badge/EXPLORE-GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilgenurpala)
-![Profile Views](https://komarev.com/ghpvc/?username=bilgenurpala)
+[![Profile Views](https://images.weserv.nl/?url=komarev.com%2Fghpvc%2F%3Fusername%3Dbilgenurpala%26color%3Dec4899%26style%3Dfor-the-badge&output=png)](https://komarev.com/ghpvc/?username=bilgenurpala)
 
 
 `BUILDING INTELLIGENT SYSTEMS // ONE RELIABLE PIPELINE AT A TIME`
